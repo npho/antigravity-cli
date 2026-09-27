@@ -1,0 +1,10 @@
+# Ignore everything by default
+*
+
+# Whitelist portable config and source files
+!.gitignore
+#!settings.json
+
+!Makefile
+!statusbar.go
+
